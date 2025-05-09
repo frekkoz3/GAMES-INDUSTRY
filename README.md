@@ -9,4 +9,4 @@ The topic of the presentation is the Video Game Industry.
 
 The visualization has been developed on Canva.
 
-Our professor hardly reccomended us to upload this presentation on GitHub, so here we are!
+Our professor strongly reccomended us to upload this presentation on GitHub, so here we are!
